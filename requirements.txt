@@ -1,0 +1,8 @@
+Flask
+flask-cors
+psycopg2-binary # Use psycopg2 (without -binary) if installing in production with pg_config available
+requests
+gunicorn
+python-dotenv
+num2words
+pydub
